@@ -12,4 +12,4 @@
 
 ## Fun
 
-[art-random](https://thewafflelord37.github.io/ManePxls-Template-Redirects/art-random.html)
+[full-random](https://thewafflelord37.github.io/ManePxls-Template-Redirects/full-random.html)
